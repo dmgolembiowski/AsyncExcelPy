@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/flask,python,reactnative,swiftpackagemanager
 # Edit at https://www.gitignore.io/?templates=flask,python,reactnative,swiftpackagemanager
 
+# Node modules (node_modules) from front-end
+**/node_modules
+
 ### Quart (as Flask, for now) ###
 */backend/share/
 *backend/share/*
