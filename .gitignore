@@ -3,6 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=flask,python,reactnative,swiftpackagemanager
 
 ### Quart (as Flask, for now) ###
+backend/share/
 ### Flask ###
 instance/*
 !instance/.gitignore
