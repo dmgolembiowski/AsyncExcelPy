@@ -5,6 +5,7 @@
 ### Quart (as Flask, for now) ###
 */backend/share/
 *backend/share/*
+**/whl
 ### Flask ###
 instance/*
 !instance/.gitignore
