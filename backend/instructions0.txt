@@ -1,0 +1,895 @@
+
+import '_pickle' # <class '_frozen_importlib.BuiltinImporter'>
+import 'pickle' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca59160>
+import 'pickleshare' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca38860>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/prefilter.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/prefilter.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/prefilter.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/prefilter.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/prefilter.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/prefilter.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/prefilter.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/autocall.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/autocall.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/autocall.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/autocall.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/autocall.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/autocall.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/autocall.cpython-37.pyc'
+import 'IPython.core.autocall' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca05fd0>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/macro.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/macro.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/macro.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/macro.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/macro.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/macro.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/macro.cpython-37.pyc'
+import 'IPython.core.macro' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca0e2b0>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/splitinput.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/splitinput.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/splitinput.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/splitinput.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/splitinput.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/splitinput.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/splitinput.cpython-37.pyc'
+import 'IPython.core.splitinput' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca0e518>
+import 'IPython.core.prefilter' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca59400>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/alias.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/alias.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/alias.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/alias.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/alias.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/alias.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/alias.cpython-37.pyc'
+import 'IPython.core.alias' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca20160>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/builtin_trap.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/builtin_trap.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/builtin_trap.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/builtin_trap.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/builtin_trap.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/builtin_trap.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/builtin_trap.cpython-37.pyc'
+import 'IPython.core.builtin_trap' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca20828>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/events.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/events.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/events.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/events.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/events.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/events.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/events.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/backcall.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/backcall.abi3.so
+# trying /home/david/excelpy/__pycache__/backcall.so
+# trying /home/david/excelpy/__pycache__/backcall.py
+# trying /home/david/excelpy/__pycache__/backcall.pyc
+# trying /usr/lib/python3.7/backcall.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/backcall.abi3.so
+# trying /usr/lib/python3.7/backcall.so
+# trying /usr/lib/python3.7/backcall.py
+# trying /usr/lib/python3.7/backcall.pyc
+# trying /usr/lib/python3.7/lib-dynload/backcall.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/lib-dynload/backcall.abi3.so
+# trying /usr/lib/python3.7/lib-dynload/backcall.so
+# trying /usr/lib/python3.7/lib-dynload/backcall.py
+# trying /usr/lib/python3.7/lib-dynload/backcall.pyc
+# /home/david/.local/lib/python3.7/site-packages/backcall/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/backcall/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/backcall/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/backcall/backcall.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/backcall/backcall.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/backcall/backcall.so
+# trying /home/david/.local/lib/python3.7/site-packages/backcall/backcall.py
+# /home/david/.local/lib/python3.7/site-packages/backcall/__pycache__/backcall.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/backcall/backcall.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/backcall/__pycache__/backcall.cpython-37.pyc'
+import 'backcall.backcall' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca20ef0>
+import 'backcall' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca20cc0>
+import 'IPython.core.events' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca20a20>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displayhook.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displayhook.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displayhook.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displayhook.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/displayhook.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/displayhook.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/displayhook.cpython-37.pyc'
+import 'IPython.core.displayhook' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca20ba8>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displaypub.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displaypub.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displaypub.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/displaypub.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/displaypub.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/displaypub.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/displaypub.cpython-37.pyc'
+import 'IPython.core.displaypub' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca2a5f8>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/extensions.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/extensions.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/extensions.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/extensions.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/extensions.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/extensions.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/extensions.cpython-37.pyc'
+import 'IPython.core.extensions' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca2a908>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/formatters.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/formatters.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/formatters.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/formatters.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/formatters.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/formatters.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/formatters.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/sentinel.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/sentinel.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/sentinel.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/sentinel.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/sentinel.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/sentinel.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/sentinel.cpython-37.pyc'
+import 'IPython.utils.sentinel' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c9bcc50>
+import 'IPython.core.formatters' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ca2ad68>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/history.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/history.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/history.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/history.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/history.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/history.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/history.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/sqlite3.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/sqlite3.abi3.so
+# trying /home/david/excelpy/__pycache__/sqlite3.so
+# trying /home/david/excelpy/__pycache__/sqlite3.py
+# trying /home/david/excelpy/__pycache__/sqlite3.pyc
+# /usr/lib/python3.7/sqlite3/__pycache__/__init__.cpython-37.pyc matches /usr/lib/python3.7/sqlite3/__init__.py
+# code object from '/usr/lib/python3.7/sqlite3/__pycache__/__init__.cpython-37.pyc'
+# trying /usr/lib/python3.7/sqlite3/dbapi2.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/sqlite3/dbapi2.abi3.so
+# trying /usr/lib/python3.7/sqlite3/dbapi2.so
+# trying /usr/lib/python3.7/sqlite3/dbapi2.py
+# /usr/lib/python3.7/sqlite3/__pycache__/dbapi2.cpython-37.pyc matches /usr/lib/python3.7/sqlite3/dbapi2.py
+# code object from '/usr/lib/python3.7/sqlite3/__pycache__/dbapi2.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/_sqlite3.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/_sqlite3.abi3.so
+# trying /home/david/excelpy/__pycache__/_sqlite3.so
+# trying /home/david/excelpy/__pycache__/_sqlite3.py
+# trying /home/david/excelpy/__pycache__/_sqlite3.pyc
+# trying /usr/lib/python3.7/_sqlite3.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/_sqlite3.abi3.so
+# trying /usr/lib/python3.7/_sqlite3.so
+# trying /usr/lib/python3.7/_sqlite3.py
+# trying /usr/lib/python3.7/_sqlite3.pyc
+# trying /usr/lib/python3.7/lib-dynload/_sqlite3.cpython-37m-x86_64-linux-gnu.so
+# extension module '_sqlite3' loaded from '/usr/lib/python3.7/lib-dynload/_sqlite3.cpython-37m-x86_64-linux-gnu.so'
+# extension module '_sqlite3' executed from '/usr/lib/python3.7/lib-dynload/_sqlite3.cpython-37m-x86_64-linux-gnu.so'
+import '_sqlite3' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f6b2c9dba58>
+import 'sqlite3.dbapi2' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c9db2e8>
+import 'sqlite3' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c9db048>
+import 'IPython.core.history' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c9d1048>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/logger.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/logger.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/logger.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/logger.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/logger.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/logger.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/logger.cpython-37.pyc'
+import 'IPython.core.logger' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c9e7c88>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/payload.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/payload.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/payload.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/payload.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/payload.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/payload.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/payload.cpython-37.pyc'
+import 'IPython.core.payload' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c9c9e80>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/usage.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/usage.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/usage.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/usage.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/usage.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/usage.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/usage.cpython-37.pyc'
+import 'IPython.core.usage' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c80d198>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/display.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/display.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/display.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/display.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/__pycache__/display.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/display.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/__pycache__/display.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/display.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/display.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/display.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/display.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/lib/__pycache__/display.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/lib/display.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/lib/__pycache__/display.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/html.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/html.abi3.so
+# trying /home/david/excelpy/__pycache__/html.so
+# trying /home/david/excelpy/__pycache__/html.py
+# trying /home/david/excelpy/__pycache__/html.pyc
+# /usr/lib/python3.7/html/__pycache__/__init__.cpython-37.pyc matches /usr/lib/python3.7/html/__init__.py
+# code object from '/usr/lib/python3.7/html/__pycache__/__init__.cpython-37.pyc'
+# trying /usr/lib/python3.7/html/entities.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/html/entities.abi3.so
+# trying /usr/lib/python3.7/html/entities.so
+# trying /usr/lib/python3.7/html/entities.py
+# /usr/lib/python3.7/html/__pycache__/entities.cpython-37.pyc matches /usr/lib/python3.7/html/entities.py
+# code object from '/usr/lib/python3.7/html/__pycache__/entities.cpython-37.pyc'
+import 'html.entities' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c81acf8>
+import 'html' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c81a898>
+import 'IPython.lib.display' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c80d3c8>
+import 'IPython.display' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c80d278>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/io.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/io.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/io.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/io.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/io.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/io.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/io.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/capture.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/capture.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/capture.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/capture.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/capture.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/capture.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/capture.cpython-37.pyc'
+import 'IPython.utils.capture' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7e9080>
+import 'IPython.utils.io' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c80def0>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/strdispatch.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/strdispatch.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/strdispatch.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/strdispatch.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/strdispatch.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/strdispatch.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/strdispatch.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/hooks.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/hooks.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/hooks.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/hooks.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/hooks.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/hooks.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/hooks.cpython-37.pyc'
+import 'IPython.core.hooks' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7e9e80>
+import 'IPython.utils.strdispatch' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7e9a58>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/syspathcontext.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/syspathcontext.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/syspathcontext.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/syspathcontext.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/syspathcontext.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/syspathcontext.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/syspathcontext.cpython-37.pyc'
+import 'IPython.utils.syspathcontext' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7e9d68>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/tempdir.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/tempdir.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/tempdir.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/tempdir.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/tempdir.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/tempdir.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/tempdir.cpython-37.pyc'
+import 'IPython.utils.tempdir' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7f56a0>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/contexts.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/contexts.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/contexts.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/contexts.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/contexts.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/contexts.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/contexts.cpython-37.pyc'
+import 'IPython.utils.contexts' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7f5b00>
+# trying /home/david/excelpy/__pycache__/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/docrepr.abi3.so
+# trying /home/david/excelpy/__pycache__/docrepr.so
+# trying /home/david/excelpy/__pycache__/docrepr.py
+# trying /home/david/excelpy/__pycache__/docrepr.pyc
+# trying /usr/lib/python3.7/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/docrepr.abi3.so
+# trying /usr/lib/python3.7/docrepr.so
+# trying /usr/lib/python3.7/docrepr.py
+# trying /usr/lib/python3.7/docrepr.pyc
+# trying /usr/lib/python3.7/lib-dynload/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/lib-dynload/docrepr.abi3.so
+# trying /usr/lib/python3.7/lib-dynload/docrepr.so
+# trying /usr/lib/python3.7/lib-dynload/docrepr.py
+# trying /usr/lib/python3.7/lib-dynload/docrepr.pyc
+# trying /home/david/.local/lib/python3.7/site-packages/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/docrepr.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/docrepr.so
+# trying /home/david/.local/lib/python3.7/site-packages/docrepr.py
+# trying /home/david/.local/lib/python3.7/site-packages/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/g2p_seq2seq-6.2.2a0-py3.7.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/g2p_seq2seq-6.2.2a0-py3.7.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/g2p_seq2seq-6.2.2a0-py3.7.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/g2p_seq2seq-6.2.2a0-py3.7.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/g2p_seq2seq-6.2.2a0-py3.7.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/tensor2tensor-1.7.0-py3.7.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/tensor2tensor-1.7.0-py3.7.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/tensor2tensor-1.7.0-py3.7.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/tensor2tensor-1.7.0-py3.7.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/tensor2tensor-1.7.0-py3.7.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/tqdm-4.31.1-py3.7.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/tqdm-4.31.1-py3.7.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/tqdm-4.31.1-py3.7.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/tqdm-4.31.1-py3.7.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/tqdm-4.31.1-py3.7.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/scipy-1.3.0rc2-py3.7-linux-x86_64.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/scipy-1.3.0rc2-py3.7-linux-x86_64.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/scipy-1.3.0rc2-py3.7-linux-x86_64.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/scipy-1.3.0rc2-py3.7-linux-x86_64.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/scipy-1.3.0rc2-py3.7-linux-x86_64.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/oauth2client-4.1.3-py3.7.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/oauth2client-4.1.3-py3.7.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/oauth2client-4.1.3-py3.7.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/oauth2client-4.1.3-py3.7.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/oauth2client-4.1.3-py3.7.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/h5py-2.9.0-py3.7-linux-x86_64.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/h5py-2.9.0-py3.7-linux-x86_64.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/h5py-2.9.0-py3.7-linux-x86_64.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/h5py-2.9.0-py3.7-linux-x86_64.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/h5py-2.9.0-py3.7-linux-x86_64.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/gym-0.12.1-py3.7.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/gym-0.12.1-py3.7.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/gym-0.12.1-py3.7.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/gym-0.12.1-py3.7.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/gym-0.12.1-py3.7.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/gunicorn-19.9.0-py3.7.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/gunicorn-19.9.0-py3.7.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/gunicorn-19.9.0-py3.7.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/gunicorn-19.9.0-py3.7.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/gunicorn-19.9.0-py3.7.egg/docrepr.pyc
+# trying /usr/local/lib/python3.7/dist-packages/google_api_python_client-1.7.8-py3.7.egg/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.7/dist-packages/google_api_python_client-1.7.8-py3.7.egg/docrepr.abi3.so
+# trying /usr/local/lib/python3.7/dist-packages/google_api_python_client-1.7.8-py3.7.egg/docrepr.so
+# trying /usr/local/lib/python3.7/dist-packages/google_api_python_client-1.7.8-py3.7.egg/docrepr.py
+# trying /usr/local/lib/python3.7/dist-packages/google_api_python_client-1.7.8-py3.7.egg/docrepr.pyc
+# trying /usr/lib/python3/dist-packages/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3/dist-packages/docrepr.abi3.so
+# trying /usr/lib/python3/dist-packages/docrepr.so
+# trying /usr/lib/python3/dist-packages/docrepr.py
+# trying /usr/lib/python3/dist-packages/docrepr.pyc
+# trying /usr/lib/python3.7/dist-packages/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/dist-packages/docrepr.abi3.so
+# trying /usr/lib/python3.7/dist-packages/docrepr.so
+# trying /usr/lib/python3.7/dist-packages/docrepr.py
+# trying /usr/lib/python3.7/dist-packages/docrepr.pyc
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/docrepr.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/docrepr.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/docrepr.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/docrepr.py
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/docrepr.pyc
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/async_helpers.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/async_helpers.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/async_helpers.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/async_helpers.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/async_helpers.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/async_helpers.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/async_helpers.cpython-37.pyc'
+import 'IPython.core.async_helpers' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7f5e48>
+import 'IPython.core.interactiveshell' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2cb723c8>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/terminal/interactiveshell.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/terminal/interactiveshell.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/terminal/interactiveshell.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/terminal/interactiveshell.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/terminal/__pycache__/interactiveshell.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/terminal/interactiveshell.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/terminal/__pycache__/interactiveshell.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/prompt_toolkit.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/prompt_toolkit.abi3.so
+# trying /home/david/excelpy/__pycache__/prompt_toolkit.so
+# trying /home/david/excelpy/__pycache__/prompt_toolkit.py
+# trying /home/david/excelpy/__pycache__/prompt_toolkit.pyc
+# trying /usr/lib/python3.7/prompt_toolkit.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/prompt_toolkit.abi3.so
+# trying /usr/lib/python3.7/prompt_toolkit.so
+# trying /usr/lib/python3.7/prompt_toolkit.py
+# trying /usr/lib/python3.7/prompt_toolkit.pyc
+# trying /usr/lib/python3.7/lib-dynload/prompt_toolkit.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/lib-dynload/prompt_toolkit.abi3.so
+# trying /usr/lib/python3.7/lib-dynload/prompt_toolkit.so
+# trying /usr/lib/python3.7/lib-dynload/prompt_toolkit.py
+# trying /usr/lib/python3.7/lib-dynload/prompt_toolkit.pyc
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/__init__.cpython-37.pyc'
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/application.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/application.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/application.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/application.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/application.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/application.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/application.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/buffer.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/buffer.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/buffer.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/buffer.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/buffer.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/buffer.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/buffer.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/current.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/current.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/current.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/current.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/current.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/current.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/current.cpython-37.pyc'
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/base.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/base.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/base.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/base.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/base.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/base.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/base.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/log.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/log.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/log.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/log.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/log.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/log.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/log.cpython-37.pyc'
+import 'prompt_toolkit.log' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c74bc18>
+import 'prompt_toolkit.eventloop.base' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c74b550>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/coroutine.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/coroutine.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/coroutine.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/coroutine.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/coroutine.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/coroutine.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/coroutine.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/defaults.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/defaults.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/defaults.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/defaults.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/defaults.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/defaults.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/defaults.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/utils.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/utils.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/utils.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/utils.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/utils.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/utils.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/utils.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/wcwidth.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/wcwidth.abi3.so
+# trying /home/david/excelpy/__pycache__/wcwidth.so
+# trying /home/david/excelpy/__pycache__/wcwidth.py
+# trying /home/david/excelpy/__pycache__/wcwidth.pyc
+# trying /usr/lib/python3.7/wcwidth.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/wcwidth.abi3.so
+# trying /usr/lib/python3.7/wcwidth.so
+# trying /usr/lib/python3.7/wcwidth.py
+# trying /usr/lib/python3.7/wcwidth.pyc
+# trying /usr/lib/python3.7/lib-dynload/wcwidth.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/lib-dynload/wcwidth.abi3.so
+# trying /usr/lib/python3.7/lib-dynload/wcwidth.so
+# trying /usr/lib/python3.7/lib-dynload/wcwidth.py
+# trying /usr/lib/python3.7/lib-dynload/wcwidth.pyc
+# /home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/wcwidth/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/wcwidth.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/wcwidth.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/wcwidth.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/wcwidth.py
+# /home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/wcwidth.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/wcwidth/wcwidth.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/wcwidth.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_wide.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_wide.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_wide.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_wide.py
+# /home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/table_wide.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/wcwidth/table_wide.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/table_wide.cpython-37.pyc'
+import 'wcwidth.table_wide' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c762a58>
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_zero.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_zero.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_zero.so
+# trying /home/david/.local/lib/python3.7/site-packages/wcwidth/table_zero.py
+# /home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/table_zero.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/wcwidth/table_zero.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/wcwidth/__pycache__/table_zero.cpython-37.pyc'
+import 'wcwidth.table_zero' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c762b00>
+import 'wcwidth.wcwidth' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7625f8>
+import 'wcwidth' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7624a8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/cache.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/cache.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/cache.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/cache.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/cache.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/cache.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/cache.cpython-37.pyc'
+import 'prompt_toolkit.cache' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c762518>
+import 'prompt_toolkit.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c75a8d0>
+import 'prompt_toolkit.eventloop.defaults' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c75a208>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/future.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/future.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/future.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/future.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/future.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/future.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/future.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/context.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/context.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/context.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/context.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/context.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/context.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/context.cpython-37.pyc'
+import 'prompt_toolkit.eventloop.context' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c77b400>
+import 'prompt_toolkit.eventloop.future' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c762c50>
+import 'prompt_toolkit.eventloop.coroutine' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c74bba8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/async_generator.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/async_generator.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/async_generator.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/async_generator.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/async_generator.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/async_generator.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/async_generator.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/queue.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/queue.abi3.so
+# trying /home/david/excelpy/__pycache__/queue.so
+# trying /home/david/excelpy/__pycache__/queue.py
+# trying /home/david/excelpy/__pycache__/queue.pyc
+# trying /usr/lib/python3.7/queue.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/queue.abi3.so
+# trying /usr/lib/python3.7/queue.so
+# trying /usr/lib/python3.7/queue.py
+# /usr/lib/python3.7/__pycache__/queue.cpython-37.pyc matches /usr/lib/python3.7/queue.py
+# code object from '/usr/lib/python3.7/__pycache__/queue.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/_queue.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/_queue.abi3.so
+# trying /home/david/excelpy/__pycache__/_queue.so
+# trying /home/david/excelpy/__pycache__/_queue.py
+# trying /home/david/excelpy/__pycache__/_queue.pyc
+# trying /usr/lib/python3.7/_queue.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/_queue.abi3.so
+# trying /usr/lib/python3.7/_queue.so
+# trying /usr/lib/python3.7/_queue.py
+# trying /usr/lib/python3.7/_queue.pyc
+# trying /usr/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so
+# extension module '_queue' loaded from '/usr/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so'
+# extension module '_queue' executed from '/usr/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so'
+import '_queue' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f6b2c7059b0>
+import 'queue' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c77bc88>
+import 'prompt_toolkit.eventloop.async_generator' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c75a710>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/event.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/event.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/event.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/event.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/event.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/event.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/event.cpython-37.pyc'
+import 'prompt_toolkit.eventloop.event' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c77b9e8>
+import 'prompt_toolkit.eventloop' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c74b278>
+import 'prompt_toolkit.application.current' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7c3eb8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/run_in_terminal.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/run_in_terminal.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/run_in_terminal.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/run_in_terminal.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/run_in_terminal.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/run_in_terminal.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/application/__pycache__/run_in_terminal.cpython-37.pyc'
+import 'prompt_toolkit.application.run_in_terminal' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c74b128>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/auto_suggest.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/auto_suggest.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/auto_suggest.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/auto_suggest.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/auto_suggest.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/auto_suggest.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/auto_suggest.cpython-37.pyc'
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/base.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/base.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/base.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/base.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/base.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/base.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/base.cpython-37.pyc'
+import 'prompt_toolkit.filters.base' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c70f3c8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/app.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/app.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/app.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/app.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/app.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/app.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/app.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/enums.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/enums.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/enums.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/enums.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/enums.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/enums.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/enums.cpython-37.pyc'
+import 'prompt_toolkit.enums' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c71d198>
+import 'prompt_toolkit.filters.app' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c714470>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/utils.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/utils.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/utils.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/utils.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/utils.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/utils.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/utils.cpython-37.pyc'
+import 'prompt_toolkit.filters.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c71ddd8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/cli.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/cli.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/cli.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/cli.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/cli.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/cli.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/filters/__pycache__/cli.cpython-37.pyc'
+import 'prompt_toolkit.filters.cli' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c71df28>
+import 'prompt_toolkit.filters' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c705fd0>
+import 'prompt_toolkit.auto_suggest' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c77bd68>
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/base.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/base.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/base.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/base.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/__pycache__/base.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/base.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/__pycache__/base.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/selection.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/selection.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/selection.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/selection.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/selection.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/selection.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/selection.cpython-37.pyc'
+import 'prompt_toolkit.selection' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7302b0>
+import 'prompt_toolkit.clipboard.base' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c728ba8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/in_memory.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/in_memory.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/in_memory.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/in_memory.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/__pycache__/in_memory.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/in_memory.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/clipboard/__pycache__/in_memory.cpython-37.pyc'
+import 'prompt_toolkit.clipboard.in_memory' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c730518>
+import 'prompt_toolkit.clipboard' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c728978>
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/base.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/base.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/base.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/base.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/base.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/base.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/base.cpython-37.pyc'
+import 'prompt_toolkit.completion.base' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7307b8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/filesystem.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/filesystem.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/filesystem.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/filesystem.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/filesystem.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/filesystem.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/filesystem.cpython-37.pyc'
+import 'prompt_toolkit.completion.filesystem' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c73d320>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/word_completer.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/word_completer.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/word_completer.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/word_completer.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/word_completer.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/word_completer.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/word_completer.cpython-37.pyc'
+import 'prompt_toolkit.completion.word_completer' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c73d668>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/fuzzy_completer.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/fuzzy_completer.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/fuzzy_completer.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/fuzzy_completer.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/fuzzy_completer.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/fuzzy_completer.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/completion/__pycache__/fuzzy_completer.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/document.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/document.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/document.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/document.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/document.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/document.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/document.cpython-37.pyc'
+import 'prompt_toolkit.document' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c73df60>
+import 'prompt_toolkit.completion.fuzzy_completer' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c73d898>
+import 'prompt_toolkit.completion' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c730630>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/history.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/history.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/history.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/history.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/history.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/history.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/history.cpython-37.pyc'
+import 'prompt_toolkit.history' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c73d128>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/search.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/search.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/search.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/search.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/search.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/search.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/search.cpython-37.pyc'
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_bindings.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_bindings.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_bindings.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_bindings.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/key_bindings.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_bindings.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/key_bindings.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/keys.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/keys.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/keys.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/keys.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/keys.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/keys.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/keys.cpython-37.pyc'
+import 'prompt_toolkit.keys' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6e9b00>
+import 'prompt_toolkit.key_binding.key_bindings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6dfa20>
+import 'prompt_toolkit.key_binding' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6df7b8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/vi_state.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/vi_state.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/vi_state.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/vi_state.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/vi_state.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/vi_state.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/vi_state.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.vi_state' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6df860>
+import 'prompt_toolkit.search' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6df390>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/validation.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/validation.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/validation.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/validation.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/validation.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/validation.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/__pycache__/validation.cpython-37.pyc'
+import 'prompt_toolkit.validation' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6df6a0>
+import 'prompt_toolkit.buffer' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7ad630>
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/base.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/base.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/base.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/base.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/base.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/base.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/base.cpython-37.pyc'
+import 'prompt_toolkit.input.base' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6eec18>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/defaults.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/defaults.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/defaults.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/defaults.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/defaults.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/defaults.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/defaults.cpython-37.pyc'
+import 'prompt_toolkit.input.defaults' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6854a8>
+import 'prompt_toolkit.input' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c7c3940>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/typeahead.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/typeahead.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/typeahead.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/typeahead.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/typeahead.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/typeahead.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/typeahead.cpython-37.pyc'
+import 'prompt_toolkit.input.typeahead' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6df160>
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/__init__.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.bindings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c685780>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/page_navigation.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/page_navigation.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/scroll.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/scroll.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/scroll.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/scroll.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/scroll.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/scroll.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/scroll.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.bindings.scroll' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c685be0>
+import 'prompt_toolkit.key_binding.bindings.page_navigation' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6857f0>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/defaults.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/defaults.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/defaults.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/defaults.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/defaults.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/defaults.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/defaults.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/basic.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/basic.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/basic.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/basic.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/basic.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/basic.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/basic.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_processor.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_processor.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_processor.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_processor.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/key_processor.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/key_processor.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/key_processor.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.key_processor' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c691240>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/named_commands.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/named_commands.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/named_commands.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/named_commands.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/named_commands.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/named_commands.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/named_commands.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/completion.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/completion.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/completion.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/completion.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/completion.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/completion.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/completion.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.bindings.completion' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6a0390>
+import 'prompt_toolkit.key_binding.bindings.named_commands' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6971d0>
+import 'prompt_toolkit.key_binding.bindings.basic' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c68e128>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/emacs.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/emacs.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/emacs.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/emacs.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/emacs.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/emacs.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/emacs.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.bindings.emacs' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6a0240>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/vi.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/vi.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/vi.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/vi.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/vi.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/vi.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/vi.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100_parser.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100_parser.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100_parser.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100_parser.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/vt100_parser.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100_parser.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/vt100_parser.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/ansi_escape_sequences.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/ansi_escape_sequences.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/ansi_escape_sequences.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/ansi_escape_sequences.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/ansi_escape_sequences.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/ansi_escape_sequences.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/ansi_escape_sequences.cpython-37.pyc'
+import 'prompt_toolkit.input.ansi_escape_sequences' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c64b8d0>
+import 'prompt_toolkit.input.vt100_parser' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c64b2e8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/digraphs.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/digraphs.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/digraphs.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/digraphs.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/digraphs.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/digraphs.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/__pycache__/digraphs.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.digraphs' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c64b6a0>
+import 'prompt_toolkit.key_binding.bindings.vi' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6ac400>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/mouse.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/mouse.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/mouse.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/mouse.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/mouse.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/mouse.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/mouse.cpython-37.pyc'
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/containers.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/containers.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/containers.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/containers.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/containers.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/containers.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/containers.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/controls.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/controls.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/controls.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/controls.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/controls.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/controls.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/controls.cpython-37.pyc'
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/base.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/base.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/base.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/base.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/base.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/base.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/base.cpython-37.pyc'
+import 'prompt_toolkit.formatted_text.base' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c6256d8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/html.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/html.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/html.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/html.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/html.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/html.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/html.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/xml.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/xml.abi3.so
+# trying /home/david/excelpy/__pycache__/xml.so
+# trying /home/david/excelpy/__pycache__/xml.py
+# trying /home/david/excelpy/__pycache__/xml.pyc
+# /usr/lib/python3.7/xml/__pycache__/__init__.cpython-37.pyc matches /usr/lib/python3.7/xml/__init__.py
+# code object from '/usr/lib/python3.7/xml/__pycache__/__init__.cpython-37.pyc'
+import 'xml' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c62e6a0>
+# /usr/lib/python3.7/xml/dom/__pycache__/__init__.cpython-37.pyc matches /usr/lib/python3.7/xml/dom/__init__.py
+# code object from '/usr/lib/python3.7/xml/dom/__pycache__/__init__.cpython-37.pyc'
+# trying /usr/lib/python3.7/xml/dom/domreg.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/xml/dom/domreg.abi3.so
+# trying /usr/lib/python3.7/xml/dom/domreg.so
+# trying /usr/lib/python3.7/xml/dom/domreg.py
+# /usr/lib/python3.7/xml/dom/__pycache__/domreg.cpython-37.pyc matches /usr/lib/python3.7/xml/dom/domreg.py
+# code object from '/usr/lib/python3.7/xml/dom/__pycache__/domreg.cpython-37.pyc'
+import 'xml.dom.domreg' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c63a320>
+import 'xml.dom' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c62e860>
+# trying /usr/lib/python3.7/xml/dom/minidom.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/xml/dom/minidom.abi3.so
+# trying /usr/lib/python3.7/xml/dom/minidom.so
+# trying /usr/lib/python3.7/xml/dom/minidom.py
+# /usr/lib/python3.7/xml/dom/__pycache__/minidom.cpython-37.pyc matches /usr/lib/python3.7/xml/dom/minidom.py
+# code object from '/usr/lib/python3.7/xml/dom/__pycache__/minidom.cpython-37.pyc'
+# trying /usr/lib/python3.7/xml/dom/minicompat.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/xml/dom/minicompat.abi3.so
+# trying /usr/lib/python3.7/xml/dom/minicompat.so
+# trying /usr/lib/python3.7/xml/dom/minicompat.py
+# /usr/lib/python3.7/xml/dom/__pycache__/minicompat.cpython-37.pyc matches /usr/lib/python3.7/xml/dom/minicompat.py
+# code object from '/usr/lib/python3.7/xml/dom/__pycache__/minicompat.cpython-37.pyc'
+import 'xml.dom.minicompat' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c5dbf98>
+# trying /usr/lib/python3.7/xml/dom/xmlbuilder.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/xml/dom/xmlbuilder.abi3.so
+# trying /usr/lib/python3.7/xml/dom/xmlbuilder.so
+# trying /usr/lib/python3.7/xml/dom/xmlbuilder.py
+# /usr/lib/python3.7/xml/dom/__pycache__/xmlbuilder.cpython-37.pyc matches /usr/lib/python3.7/xml/dom/xmlbuilder.py
+# code object from '/usr/lib/python3.7/xml/dom/__pycache__/xmlbuilder.cpython-37.pyc'
+# trying /usr/lib/python3.7/xml/dom/NodeFilter.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/xml/dom/NodeFilter.abi3.so
+# trying /usr/lib/python3.7/xml/dom/NodeFilter.so
+# trying /usr/lib/python3.7/xml/dom/NodeFilter.py
+# /usr/lib/python3.7/xml/dom/__pycache__/NodeFilter.cpython-37.pyc matches /usr/lib/python3.7/xml/dom/NodeFilter.py
+# code object from '/usr/lib/python3.7/xml/dom/__pycache__/NodeFilter.cpython-37.pyc'
+import 'xml.dom.NodeFilter' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c5e9be0>
+import 'xml.dom.xmlbuilder' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c5e04a8>
+import 'xml.dom.minidom' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c62e588>
+import 'prompt_toolkit.formatted_text.html' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2c625cf8>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/ansi.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/ansi.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/ansi.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/ansi.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/ansi.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/ansi.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/formatted_text/__pycache__/ansi.cpython-37.pyc'
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/__pycache__/__init__.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/base.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/base.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/base.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/base.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/__pycache__/base.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/base.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/output/__pycache__/base.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/screen.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/screen.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/screen.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/screen.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/screen.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/screen.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/layout/__pycache__/screen.cpython-37.pyc'

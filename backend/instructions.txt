@@ -1,0 +1,309 @@
+
+import 'IPython.core.magics.code' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b80a198>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/config.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/config.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/config.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/config.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/config.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/config.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/config.cpython-37.pyc'
+import 'IPython.core.magics.config' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b832f60>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/display.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/display.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/display.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/display.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/display.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/display.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/display.cpython-37.pyc'
+import 'IPython.core.magics.display' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4eeb00>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/execution.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/execution.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/execution.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/execution.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/execution.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/execution.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/execution.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/timeit.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/timeit.abi3.so
+# trying /home/david/excelpy/__pycache__/timeit.so
+# trying /home/david/excelpy/__pycache__/timeit.py
+# trying /home/david/excelpy/__pycache__/timeit.pyc
+# trying /usr/lib/python3.7/timeit.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/timeit.abi3.so
+# trying /usr/lib/python3.7/timeit.so
+# trying /usr/lib/python3.7/timeit.py
+# /usr/lib/python3.7/__pycache__/timeit.cpython-37.pyc matches /usr/lib/python3.7/timeit.py
+# code object from '/usr/lib/python3.7/__pycache__/timeit.cpython-37.pyc'
+import 'timeit' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b50fb70>
+# trying /home/david/excelpy/__pycache__/cProfile.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/cProfile.abi3.so
+# trying /home/david/excelpy/__pycache__/cProfile.so
+# trying /home/david/excelpy/__pycache__/cProfile.py
+# trying /home/david/excelpy/__pycache__/cProfile.pyc
+# trying /usr/lib/python3.7/cProfile.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/cProfile.abi3.so
+# trying /usr/lib/python3.7/cProfile.so
+# trying /usr/lib/python3.7/cProfile.py
+# /usr/lib/python3.7/__pycache__/cProfile.cpython-37.pyc matches /usr/lib/python3.7/cProfile.py
+# code object from '/usr/lib/python3.7/__pycache__/cProfile.cpython-37.pyc'
+# trying /home/david/excelpy/__pycache__/_lsprof.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/_lsprof.abi3.so
+# trying /home/david/excelpy/__pycache__/_lsprof.so
+# trying /home/david/excelpy/__pycache__/_lsprof.py
+# trying /home/david/excelpy/__pycache__/_lsprof.pyc
+# trying /usr/lib/python3.7/_lsprof.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/_lsprof.abi3.so
+# trying /usr/lib/python3.7/_lsprof.so
+# trying /usr/lib/python3.7/_lsprof.py
+# trying /usr/lib/python3.7/_lsprof.pyc
+# trying /usr/lib/python3.7/lib-dynload/_lsprof.cpython-37m-x86_64-linux-gnu.so
+# extension module '_lsprof' loaded from '/usr/lib/python3.7/lib-dynload/_lsprof.cpython-37m-x86_64-linux-gnu.so'
+# extension module '_lsprof' executed from '/usr/lib/python3.7/lib-dynload/_lsprof.cpython-37m-x86_64-linux-gnu.so'
+import '_lsprof' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f6b2b513c50>
+# trying /home/david/excelpy/__pycache__/profile.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/profile.abi3.so
+# trying /home/david/excelpy/__pycache__/profile.so
+# trying /home/david/excelpy/__pycache__/profile.py
+# trying /home/david/excelpy/__pycache__/profile.pyc
+# trying /usr/lib/python3.7/profile.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/profile.abi3.so
+# trying /usr/lib/python3.7/profile.so
+# trying /usr/lib/python3.7/profile.py
+# /usr/lib/python3.7/__pycache__/profile.cpython-37.pyc matches /usr/lib/python3.7/profile.py
+# code object from '/usr/lib/python3.7/__pycache__/profile.cpython-37.pyc'
+import 'profile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b513da0>
+import 'cProfile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b5136a0>
+# trying /home/david/excelpy/__pycache__/pstats.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/excelpy/__pycache__/pstats.abi3.so
+# trying /home/david/excelpy/__pycache__/pstats.so
+# trying /home/david/excelpy/__pycache__/pstats.py
+# trying /home/david/excelpy/__pycache__/pstats.pyc
+# trying /usr/lib/python3.7/pstats.cpython-37m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.7/pstats.abi3.so
+# trying /usr/lib/python3.7/pstats.so
+# trying /usr/lib/python3.7/pstats.py
+# /usr/lib/python3.7/__pycache__/pstats.cpython-37.pyc matches /usr/lib/python3.7/pstats.py
+# code object from '/usr/lib/python3.7/__pycache__/pstats.cpython-37.pyc'
+import 'pstats' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b5082b0>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/module_paths.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/module_paths.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/module_paths.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/module_paths.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/module_paths.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/module_paths.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/module_paths.cpython-37.pyc'
+import 'IPython.utils.module_paths' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4ab7b8>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/timing.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/timing.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/timing.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/timing.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/timing.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/timing.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/timing.cpython-37.pyc'
+import 'IPython.utils.timing' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4abd30>
+import 'IPython.core.magics.execution' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b508518>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/extension.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/extension.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/extension.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/extension.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/extension.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/extension.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/extension.cpython-37.pyc'
+import 'IPython.core.magics.extension' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4b1f28>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/history.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/history.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/history.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/history.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/history.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/history.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/history.cpython-37.pyc'
+import 'IPython.core.magics.history' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4b1f98>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/logging.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/logging.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/logging.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/logging.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/logging.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/logging.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/logging.cpython-37.pyc'
+import 'IPython.core.magics.logging' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4bf860>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/namespace.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/namespace.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/namespace.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/namespace.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/namespace.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/namespace.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/namespace.cpython-37.pyc'
+import 'IPython.core.magics.namespace' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4bfd30>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/osm.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/osm.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/osm.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/osm.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/osm.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/osm.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/osm.cpython-37.pyc'
+import 'IPython.core.magics.osm' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4d6128>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/packaging.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/packaging.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/packaging.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/packaging.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/packaging.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/packaging.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/packaging.cpython-37.pyc'
+import 'IPython.core.magics.packaging' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4dd710>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/pylab.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/pylab.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/pylab.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/pylab.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/pylab.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/pylab.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/pylab.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/pylabtools.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/pylabtools.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/pylabtools.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/pylabtools.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/pylabtools.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/pylabtools.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/pylabtools.cpython-37.pyc'
+import 'IPython.core.pylabtools' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4ddba8>
+import 'IPython.core.magics.pylab' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4dd898>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/script.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/script.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/script.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/script.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/script.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/magics/script.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/magics/__pycache__/script.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/backgroundjobs.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/backgroundjobs.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/backgroundjobs.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/lib/backgroundjobs.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/lib/__pycache__/backgroundjobs.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/lib/backgroundjobs.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/lib/__pycache__/backgroundjobs.cpython-37.pyc'
+import 'IPython.lib.backgroundjobs' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4754a8>
+import 'IPython.core.magics.script' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b475320>
+import 'IPython.core.magics' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b8628d0>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/shellapp.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/shellapp.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/shellapp.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/shellapp.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/shellapp.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/shellapp.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/shellapp.cpython-37.pyc'
+import 'IPython.core.shellapp' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b470da0>
+# /home/david/.local/lib/python3.7/site-packages/IPython/extensions/__pycache__/__init__.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/extensions/__init__.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/extensions/__pycache__/__init__.cpython-37.pyc'
+import 'IPython.extensions' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b496588>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/storemagic.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/storemagic.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/storemagic.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/extensions/storemagic.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/extensions/__pycache__/storemagic.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/extensions/storemagic.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/extensions/__pycache__/storemagic.cpython-37.pyc'
+import 'IPython.extensions.storemagic' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4964e0>
+import 'IPython.terminal.ipapp' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b862198>
+import 'IPython.terminal.embed' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2cda9908>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/frame.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/frame.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/frame.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/utils/frame.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/frame.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/utils/frame.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/utils/__pycache__/frame.cpython-37.pyc'
+import 'IPython.utils.frame' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4a1198>
+import 'IPython' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2d601198>
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/completerlib.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/completerlib.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/completerlib.so
+# trying /home/david/.local/lib/python3.7/site-packages/IPython/core/completerlib.py
+# /home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/completerlib.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/IPython/core/completerlib.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/IPython/core/__pycache__/completerlib.cpython-37.pyc'
+import 'IPython.core.completerlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2b4a15f8>
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/shell.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/shell.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/shell.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/shell.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/shell.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/shell.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/shell.cpython-37.pyc'
+import 'pygments.lexers.shell' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2abaf1d0>
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/html.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/html.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/html.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/html.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/html.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/html.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/html.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/javascript.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/javascript.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/javascript.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/javascript.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/javascript.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/javascript.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/javascript.cpython-37.pyc'
+import 'pygments.lexers.javascript' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ab6d320>
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/jvm.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/jvm.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/jvm.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/jvm.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/jvm.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/jvm.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/jvm.cpython-37.pyc'
+import 'pygments.lexers.jvm' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ab7aa90>
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/css.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/css.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/css.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/css.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/css.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/css.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/css.cpython-37.pyc'
+import 'pygments.lexers.css' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ab64080>
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/ruby.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/ruby.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/ruby.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/ruby.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/ruby.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/ruby.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/ruby.cpython-37.pyc'
+import 'pygments.lexers.ruby' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ab51470>
+import 'pygments.lexers.html' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ab77ba8>
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/perl.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/perl.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/perl.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/perl.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/perl.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/perl.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/perl.cpython-37.pyc'
+import 'pygments.lexers.perl' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ab7eb70>
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/markup.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/markup.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/markup.so
+# trying /home/david/.local/lib/python3.7/site-packages/pygments/lexers/markup.py
+# /home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/markup.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/pygments/lexers/markup.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/pygments/lexers/__pycache__/markup.cpython-37.pyc'
+import 'pygments.lexers.markup' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2aa89550>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/vt100.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/vt100.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/vt100.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/posix_utils.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/posix_utils.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/posix_utils.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/posix_utils.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/posix_utils.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/posix_utils.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/input/__pycache__/posix_utils.cpython-37.pyc'
+import 'prompt_toolkit.input.posix_utils' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2aa8c278>
+import 'prompt_toolkit.input.vt100' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2aa7fe80>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/posix.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/posix.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/posix.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/posix.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/posix.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/posix.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/posix.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/inputhook.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/inputhook.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/inputhook.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/inputhook.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/inputhook.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/inputhook.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/inputhook.cpython-37.pyc'
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/select.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/select.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/select.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/select.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/select.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/select.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/select.cpython-37.pyc'
+import 'prompt_toolkit.eventloop.select' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2aa90da0>
+import 'prompt_toolkit.eventloop.inputhook' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2aa90828>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/utils.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/utils.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/utils.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/utils.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/utils.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/utils.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/eventloop/__pycache__/utils.cpython-37.pyc'
+import 'prompt_toolkit.eventloop.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2ab21b00>
+import 'prompt_toolkit.eventloop.posix' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2aa900f0>
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/search.cpython-37m-x86_64-linux-gnu.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/search.abi3.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/search.so
+# trying /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/search.py
+# /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/search.cpython-37.pyc matches /home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/search.py
+# code object from '/home/david/.local/lib/python3.7/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/search.cpython-37.pyc'
+import 'prompt_toolkit.key_binding.bindings.search' # <_frozen_importlib_external.SourceFileLoader object at 0x7f6b2aa49080>
