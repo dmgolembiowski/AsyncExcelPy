@@ -80,8 +80,10 @@ class Sheet(dict):
     def __init__(self):
         super().__init__()
     
-    def __setitem__(self):
-
+    '''
+    def __setitem(self):
+        pass
+    '''
 
 class Mapper:
     def __init__(self):
